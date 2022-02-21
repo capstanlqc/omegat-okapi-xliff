@@ -1,0 +1,23 @@
+------------------------------------
+Packing timestamp: 2022-02-21 22:44:40
+OMT plugin version: null
+User ID: "souto"
+Project name: [C:\Users\souto\Sync\_Tasks\c097_PISA2021-PIAACC2_OmegaT\02_Templates\_templates_2current\repo\omegat-okapi-xliff\XLIFF_untranslated_OMT]
+Package name: [C:\Users\souto\Sync\_Tasks\c097_PISA2021-PIAACC2_OmegaT\02_Templates\_templates_2current\repo\omegat-okapi-xliff\XLIFF_untranslated_OMT.omt]
+addZipDir	file	[dictionary\.empty]
+addZipDir	file	[glossary\.empty]
+createEmptyFile	[glossary\glossary\.empty]
+addZipDir	file	[omegat\filters.xml]
+addZipDir	file	[omegat\ignored_words.txt]
+addZipDir	file	[omegat\last_entry.properties]
+addZipDir	file	[omegat\learned_words.txt]
+Exclude entry [omegat/omt-packer.log] from regex [omt-packer\.log$]
+addZipDir	file	[omegat\project_save.tmx]
+addZipDir	file	[omegat\project_save.tmx.202202212046.bak]
+addZipDir	file	[omegat\project_stats.txt]
+addZipDir	project	[omegat.project]
+addZipDir	file	[source\file.xlf]
+addZipDir	file	[target\.empty]
+createEmptyFile	[target\target\.empty]
+addZipDir	file	[tm\.empty]
+Added 13 files to the Zip.
