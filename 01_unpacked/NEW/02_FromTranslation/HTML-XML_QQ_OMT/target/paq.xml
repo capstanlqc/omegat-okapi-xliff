@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="styles.css"?><bq>
+  <itemGroup id="PA152" layout="" visible="true">
+    <styles match="2" type="column">
+      <key name="size">22</key>
+    </styles>
+    <styles match="1" type="column">
+      <key name="size">78</key>
+    </styles>
+    <subject>كم من الوقت يستخدم طفلك الكمبيوتر؟</subject>
+    <instruction>أرجنك إختار جواب وحيدة فقط.</instruction>
+    <item id="item" layout="simpleMultipleChoiceRadioButton">
+      <responses>
+        <response>
+          <code>PA152Q01IA</code>
+          <label translate="no">We do not have a computer at home</label>
+        </response>
+        <response>
+          <code>PA152Q02IA</code>
+          <label translate="no">We have a computer at home, but my child does not use it</label>
+        </response>
+        <response>
+          <code>PA152Q03IA</code>
+          <label>أقل من ساعة في اليوم</label>
+        </response>
+        <response>
+          <code>PA152Q04IA</code>
+          <label>بين ساعة و ساعتين في اليوم</label>
+        </response>
+        <response>
+          <code>PA152Q05IAa</code>
+          <label translate="no">Between 2 and 3 hours a day</label>
+        </response>
+        <response>
+          <code>PA152Q05IAa</code>
+          <label translate="yes">ساعتان في اليوم أو أكثر</label>
+        </response>        
+        <response>
+          <code>PA152Q06IA</code>
+          <label translate="no">3 hours a day or more</label>
+        </response>
+      </responses>
+    </item>
+  <id value="180700">180700</id></itemGroup>
+</bq>

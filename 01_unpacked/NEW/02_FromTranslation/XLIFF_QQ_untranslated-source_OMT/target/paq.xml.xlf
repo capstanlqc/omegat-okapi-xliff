@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="1.2" its:version="2.0">
+<file original="paq.xml" source-language="en" target-language="ar" datatype="xml">
+<body>
+<trans-unit id="1" approved="yes">
+<source xml:lang="en">How much time does your child use the computer?</source>
+<target xml:lang="ar">كم من الوقت يستخدم طفلك الكمبيوتر؟</target>
+</trans-unit>
+<trans-unit id="2" approved="yes">
+<source xml:lang="en">Please select one response.</source>
+<target xml:lang="ar">أرجوك إختار جواب وحيدة فقط.</target>
+</trans-unit>
+<trans-unit id="3" approved="yes">
+<source xml:lang="en">Less than 1 hour a day</source>
+<target xml:lang="ar">أقل من ساعة في اليوم</target>
+</trans-unit>
+<trans-unit id="4" approved="yes">
+<source xml:lang="en">Between 1 and 2 hours a day</source>
+<target xml:lang="ar">بين ساعة و ساعتين في اليوم</target>
+</trans-unit>
+<trans-unit id="5" approved="yes">
+<source xml:lang="en">2 hours a day or more</source>
+<target xml:lang="ar">ساعتان في اليوم أو أكثر</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

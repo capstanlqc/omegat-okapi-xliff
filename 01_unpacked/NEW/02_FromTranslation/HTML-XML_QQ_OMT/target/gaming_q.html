@@ -1,0 +1,63 @@
+<!doctype html>
+<html dir="rtl" lang='ar'>
+<head>
+<meta charset='UTF-8' />
+<style>
+div.instruction {
+	font-size: 120%;
+	margin-bottom: 20px;
+}
+body {
+	transform: scale(1.2);
+	max-width: 50%;
+	min-width: 600px;
+	margin: auto;
+	padding: 50px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h2 {
+	background-color: #CDCDCD;
+	margin: 2px;
+	padding: 5px;
+}
+h2:before {
+	content: attr(id) '  ';
+}
+input[type=radio] {
+	display: block;
+	float:left;
+}
+ul.response-options {
+	list-style: none;	
+}
+</style>
+</head>
+<body>
+<div id="content">
+  <h1>مرحبًا بك في هذا الاستطلاع!</h1><hr />
+  <h2 class="question" id="Q1">هل أنت مهتم بألعاب الفيديو ؟</h2>
+  <div class="instruction">لا يوجد<em> الصحيح</em> الإجابات. يُرجى تحديد إجابة واحدة.</div>
+  <ul class="response-options">
+    <li><input type="radio">مهتمون للغاية</li>
+    <li><input type="radio">مورد علاقه</li>
+	<li><input type="radio">غير مهتم</li>
+	<li><input type="radio">غير مهتم على الإطلاق</li>
+  </ul>
+  <p class='hide' translate='no'>حدد الخيار الأفضل</p>
+  <a href="#">اضغط هنا للمتابعه.</a>
+  <div class='hide note' translate='no'>Do not translate, respondents will not see this.</div>
+</div>
+<script type='text/javascript'>
+	/* do not display rows that are hidden in the MRT Excel file */
+	document.querySelectorAll(".hide").forEach(node => { node.style.display = "none" })
+	/* change directionality if the target language is Arabic (and derivates) or Hebrew */
+	const bodyText = document.body.innerText
+	const regex = /\p{Script=Arabic}|\p{Script=Hebrew}/u
+	const bidiFound = bodyText.match(regex)
+	if (bidiFound) {  
+		document["dir"] = "rtl"
+		document.querySelectorAll("input[type=radio]").forEach(i => { i.style.float = "right" })
+	}
+</script>
+</body>
+</html>

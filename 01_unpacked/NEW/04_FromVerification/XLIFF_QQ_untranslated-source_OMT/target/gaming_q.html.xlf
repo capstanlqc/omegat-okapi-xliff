@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="1.2" its:version="2.0">
+<file original="gaming_q.html" source-language="en" target-language="ar" datatype="html">
+<body>
+<trans-unit id="tu1" restype="x-h1" approved="yes">
+<source xml:lang="en">Welcome to this survey!</source>
+<target xml:lang="ar">مرحبًا بك في هذا الاستطلاع!</target>
+</trans-unit>
+<trans-unit id="tu2" resname="Q1-id" restype="x-h2" approved="yes">
+<source xml:lang="en">Are you interested in videogames?</source>
+<target xml:lang="ar">هل أنت مهتم بألعاب الفيديو؟</target>
+</trans-unit>
+<trans-unit id="tu3" approved="yes">
+<source xml:lang="en">There are no <bpt id="1">&lt;em></bpt>right<ept id="1">&lt;/em></ept> answers.</source>
+<target xml:lang="ar">لا توجد إجابات <bpt id="1">&lt;em></bpt>صحيحة<ept id="1">&lt;/em></ept>.</target>
+</trans-unit>
+<trans-unit id="tu4" approved="yes">
+<source xml:lang="en">Please select one response.</source>
+<target xml:lang="ar">أرجوك إختار جواب وحيدة فقط.</target>
+</trans-unit>
+<trans-unit id="tu5" restype="x-li" approved="yes">
+<source xml:lang="en"></source>
+<target xml:lang="ar"></target>
+</trans-unit>
+<trans-unit id="tu6" restype="x-input" approved="yes">
+<source xml:lang="en">Very interested</source>
+<target xml:lang="ar">مهتم للغاية</target>
+</trans-unit>
+<trans-unit id="tu7" restype="x-li" approved="yes">
+<source xml:lang="en"></source>
+<target xml:lang="ar"></target>
+</trans-unit>
+<trans-unit id="tu9" restype="x-input" approved="yes">
+<source xml:lang="en">Interested</source>
+<target xml:lang="ar">مهتم</target>
+</trans-unit>
+<trans-unit id="tu10" restype="x-li" approved="yes">
+<source xml:lang="en"></source>
+<target xml:lang="ar"></target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-input" approved="yes">
+<source xml:lang="en">Not interested</source>
+<target xml:lang="ar">غير مهتم</target>
+</trans-unit>
+<trans-unit id="tu11" restype="x-li" approved="yes">
+<source xml:lang="en"></source>
+<target xml:lang="ar"></target>
+</trans-unit>
+<trans-unit id="tu12" restype="x-input" approved="yes">
+<source xml:lang="en">Not interested at all</source>
+<target xml:lang="ar">غير مهتم على الإطلاق</target>
+</trans-unit>
+<trans-unit id="tu13" restype="x-paragraph" approved="yes">
+<source xml:lang="en">Select the best option.</source>
+<target xml:lang="ar">حدد الخيار الأفضل</target>
+</trans-unit>
+<trans-unit id="tu14" restype="x-link" approved="yes">
+<source xml:lang="en">Click here to continue.</source>
+<target xml:lang="ar">اضغط هنا للمتابعه.</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

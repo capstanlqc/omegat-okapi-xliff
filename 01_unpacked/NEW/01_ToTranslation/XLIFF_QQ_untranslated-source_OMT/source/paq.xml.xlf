@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="paq.xml" source-language="en" target-language="ar" datatype="xml">
+<body>
+<trans-unit id="1">
+<source xml:lang="en">How much time does your child use the computer?</source>
+<target xml:lang="ar" />
+</trans-unit>
+<trans-unit id="2">
+<source xml:lang="en">Please select one response.</source>
+<target xml:lang="ar" />
+</trans-unit>
+<trans-unit id="3">
+<source xml:lang="en">Less than 1 hour a day</source>
+<target xml:lang="ar" />
+</trans-unit>
+<trans-unit id="4">
+<source xml:lang="en">Between 1 and 2 hours a day</source>
+<target xml:lang="ar" />
+</trans-unit>
+<trans-unit id="5">
+<source xml:lang="en">2 hours a day or more</source>
+<target xml:lang="ar" />
+</trans-unit>
+</body>
+</file>
+</xliff>

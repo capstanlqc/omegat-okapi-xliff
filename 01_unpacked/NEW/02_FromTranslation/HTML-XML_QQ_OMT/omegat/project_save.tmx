@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>2 hours a day or more</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T211532Z" creationid="pico" creationdate="20220228T211532Z">
+        <seg>ساعتان في اليوم أو أكثر</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220302T132715Z" creationid="pico" creationdate="20220302T132715Z">
+        <seg>هل أنت مهتم بألعاب الفيديو ؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Between 1 and 2 hours a day</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T211531Z" creationid="pico" creationdate="20220228T211531Z">
+        <seg>بين ساعة و ساعتين في اليوم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click here to continue.</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201855Z" creationid="pico" creationdate="20220228T201855Z">
+        <seg>اضغط هنا للمتابعه.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hello world!</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201902Z">
+        <seg>مرحبا أيها العالم!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How are you?</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201903Z">
+        <seg>كيف حالك؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How much time does your child use the computer?</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T211529Z" creationid="pico" creationdate="20220228T211529Z">
+        <seg>كم من الوقت يستخدم طفلك الكمبيوتر؟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201852Z" creationid="pico" creationdate="20220228T201852Z">
+        <seg>مورد علاقه</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Less than 1 hour a day</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T211530Z" creationid="pico" creationdate="20220228T211530Z">
+        <seg>أقل من ساعة في اليوم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201853Z" creationid="pico" creationdate="20220228T201853Z">
+        <seg>غير مهتم</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested at all</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201853Z" creationid="pico" creationdate="20220228T201853Z">
+        <seg>غير مهتم على الإطلاق</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T211330Z" creationid="pico" creationdate="20220228T211330Z">
+        <seg>يُرجى تحديد إجابة واحدة.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201854Z" creationid="pico" creationdate="20220228T201854Z">
+        <seg>حدد الخيار الأفضل</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;e0&gt;right&lt;/e0&gt; answers.</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201849Z" creationid="pico" creationdate="20220228T201849Z">
+        <seg>لا يوجد&lt;e0&gt; الصحيح&lt;/e0&gt; الإجابات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T220954Z" creationid="pico" creationdate="20220228T220954Z">
+        <seg>لا يوجد&lt;g1&gt; الصحيح&lt;/g1&gt; الإجابات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very interested</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201851Z" creationid="pico" creationdate="20220228T201851Z">
+        <seg>مهتمون للغاية</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220228T201847Z" creationid="pico" creationdate="20220228T201847Z">
+        <seg>مرحبًا بك في هذا الاستطلاع!</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">page.html</prop>
+      <prop type="prev">Subscribe</prop>
+      <prop type="next"></prop>
+      <tuv lang="en">
+        <seg>Subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">paq.xml</prop>
+      <prop type="id">2_0</prop>
+      <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="ar" changeid="pico" changedate="20220302T132953Z" creationid="pico" creationdate="20220302T132953Z">
+        <seg>أرجنك إختار جواب وحيدة فقط.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
