@@ -65,7 +65,7 @@ Here, the two workflows are separated for clarity, but in practice both get mixe
 
 ## Projects
 
-For every task, there's a `ToX` folder and a `FromX` folder, to exemplify the project that is outgoing (dispatched) to the user and the project that is incoming (delivered) from the user.
+For every task, there's a `To{Task}` folder and a `From{Task}` folder, to exemplify the project that is outgoing (dispatched) to the user and the project that is incoming (delivered) from the user.
 
 ### Translation task
 
