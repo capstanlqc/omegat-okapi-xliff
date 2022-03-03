@@ -48,7 +48,7 @@ The following structure of directories simulates a simplified workflow for new m
 │   │   ├── XLIFF_QQ_pretranslated-source_OMT.omt
 │   │   └── XLIFF_QQ_untranslated-source_OMT.omt
 │   └── 04_FromVerification
-│   │   ├── HTML-XML_QQ_OMT.omt
+│       ├── HTML-XML_QQ_OMT.omt
 │       ├── XLIFF_QQ_pretranslated-source_OMT.omt
 │       └── XLIFF_QQ_untranslated-source_OMT.omt
 └── TRANSFER
