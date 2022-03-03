@@ -10,8 +10,6 @@ The packed and unpacked versions have the same content. The unpacked projects ar
 
 ## Naming
 
----
-
 In the names of the sample projects provided, `QQ` stands for `questionnaires`.
 
 On the other hand, `pretranslated source` refers to source files that have a translation:
@@ -33,8 +31,6 @@ Whereas `untranslated source` refers to source files that do not have a translat
 ```
 
 ## Workflow simulation
-
----
 
 The following structure of directories simulates a simplified workflow for new materials ("new") and one where some translations already exist ("transfer"):
 
@@ -68,8 +64,6 @@ The "transfer" workflow can be applicable to different scenarios: e.g. for a tre
 Here, the two workflows are separated for clarity, but in practice both get mixed often, i.e. a regular translation often requires transfers from existing translations.
 
 ## Projects
-
----
 
 For every task, there's a `ToX` folder and a `FromX` folder, to exemplify the project that is outgoing (dispatched) to the user and the project that is incoming (delivered) from the user.
 
